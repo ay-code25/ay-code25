@@ -15,20 +15,16 @@
 alt=Teamwork Icon>
 
 <img src=" https://img.icons8.com/ios-filled/50/000000/teamwork.png"
-alt=
-Leadership Icon>
+alt=Leadership Icon>
 
 <img src="https://img.icons8.com/ios-filled/50/000000/leader.png"
-alt=
-Problem Solving Icon>
+alt=Problem Solving Icon>
 
 Link: https://img.icons8.com/ios-filled/50/000000/problem-solving.png"
-alt=
-Collaboration Icon>
+alt=Collaboration Icon>
 
 <img src=" https://img.icons8.com/ios-filled/50/000000/collaboration.png"
-alt=
-Creativity Icon>
+alt=Creativity Icon>
 
 <img src=" https://img.icons8.com/ios-filled/50/000000/creativity.png"
 >
