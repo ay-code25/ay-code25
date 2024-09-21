@@ -115,7 +115,7 @@ I'm a passionate software developer with a strong foundation in coding, debuggin
 
  style="display: inline-block; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/agile/agile-original.svg" alt="Agile" width="40" height="40"/>
-
+</div>
 
 **Project Management:**
 
