@@ -4,7 +4,7 @@
 
 
 
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="150" height="150" style="margin-right: 20px;"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="145" height="145" style="margin-right: 20px;"/>
 -
 
 
@@ -60,9 +60,9 @@
 
 **Langauges and tools:**
 
- <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="100" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/composer/composer-original.svg" alt="Composer" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/trello/trello-original.svg" alt="Trello" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="100" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/composer/composer-original.svg" alt="Composer" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/jira/jira-original.svg" alt="Jira" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/trello/trello-original.svg" alt="Trello" width="45" height="45"/>
