@@ -76,4 +76,4 @@ I'm a passionate software developer with a strong foundation in coding, debuggin
 
 **Frameworks and CMS:**
 
-<img src="https://cdn.jsdelivr.net/npm
+<img src="https://cdn.jsdelivr.net/npm>
