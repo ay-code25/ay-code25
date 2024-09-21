@@ -11,8 +11,8 @@
 ## 🛠  **Programming Languages:** PHP, Python, HTML, CSS, JavaScript
 Communication Icon:
 
-Link: https://img.icons8.com/ios-filled/50/000000/communication.png
-Teamwork Icon:
+<img src="https://img.icons8.com/ios-filled/50/000000/communication.png"
+alt=Teamwork Icon>
 
 Link: https://img.icons8.com/ios-filled/50/000000/teamwork.png
 Leadership Icon:
