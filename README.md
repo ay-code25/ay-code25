@@ -6,7 +6,6 @@
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="150" height="150"/>
   </div>
 
-</div>
 
 
 ## 🛠 Skills
