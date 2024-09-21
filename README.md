@@ -4,12 +4,9 @@
 
 
 ## 🛠 Skills
-
+ **Programming Languages:** PHP, Python, HTML, CSS, JavaScrip
 -<div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="150" height="150" style="margin-right: 20px;"/>
-  <p> 
-    <strong>Programming Languages:</strong> PHP, Python, HTML, CSS, JavaScript
-  </p>
 </div>
 
 ## 💼 Experience
