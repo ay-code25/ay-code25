@@ -9,25 +9,8 @@
 
 
 ## 🛠  **Programming Languages:** PHP, Python, HTML, CSS, JavaScript
+<p><strong>Soft Skills:</strong>  <br>💬 Communication <br>🤝 Teamwork <br>🧠 Problem-solving <br>⏰ Time Management <br>🌱 Adaptability</p>
 
-
-<img src="https://img.icons8.com/ios-filled/50/000000/communication.png"
-alt=Teamwork Icon>
-
-<img src=" https://img.icons8.com/ios-filled/50/000000/teamwork.png"
-alt=Leadership Icon>
-
-<img src="https://img.icons8.com/ios-filled/50/000000/leader.png"
-alt=Problem Solving Icon>
-
-Link: https://img.icons8.com/ios-filled/50/000000/problem-solving.png"
-alt=Collaboration Icon>
-
-<img src=" https://img.icons8.com/ios-filled/50/000000/collaboration.png"
-alt=Creativity Icon>
-
-<img src=" https://img.icons8.com/ios-filled/50/000000/creativity.png"
->
 
 ## 💼 Experience
 
