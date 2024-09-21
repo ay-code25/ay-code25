@@ -1,8 +1,15 @@
-
-
 # Hi, I'm Aziza Yalda Shirzad 👋
 
-I'm a passionate software developer with a strong foundation in coding, debugging, and project management. I have hands-on experience with a wide range of technologies, including HTML, CSS, JavaScript, Python, and PHP. I recently completed a six-month software development internship, where I honed my skills in content management systems, development environments, and debugging. I am excited to bring my skills to a full-time software development role and contribute to impactful projects.
+<div style="position: relative;">
+  <p>
+    I'm a passionate software developer with a strong foundation in coding, debugging, and project management. I have hands-on experience with a wide range of technologies, including HTML, CSS, JavaScript, Python, and PHP. I recently completed a six-month software development internship, where I honed my skills in content management systems, development environments, and debugging. I am excited to bring my skills to a full-time software development role and contribute to impactful projects.
+  </p>
+  
+  <!-- Animation of a girl coding -->
+  <div style="position: absolute; top: 0; right: 0;">
+    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="150" height="150"/>
+  </div>
+</div>
 
 ## 🛠 Skills
 
@@ -61,8 +68,6 @@ I'm a passionate software developer with a strong foundation in coding, debuggin
 
 ## 🛠 Skills
 
-## 🛠 Skills
-
 **Programming Languages:**
 
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -79,8 +84,6 @@ I'm a passionate software developer with a strong foundation in coding, debuggin
 
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-
-
 
 **Project Management:**
 
