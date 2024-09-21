@@ -62,15 +62,15 @@
 
 **Programming Languages:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
 
 **Frameworks and CMS:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60"/>
 
 **Tools & Technologies:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/composer/composer-original.svg" alt="Composer" width="40" height="60"/>
 
 **Development Practices:**
 
