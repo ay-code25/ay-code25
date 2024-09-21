@@ -62,7 +62,7 @@
 
 **Programming Languages:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+ <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
 
 **Frameworks and CMS:**
 
