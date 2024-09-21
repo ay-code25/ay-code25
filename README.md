@@ -77,7 +77,9 @@ I'm a passionate software developer with a strong foundation in coding, debuggin
 
 **Development Practices:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/agile/agile-original.svg" alt="Agile" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/agile/agile-original.svg" alt="Agile" width="40" height="40"/>
 
 **Project Management:**
 
