@@ -6,8 +6,8 @@
   </p>
   
   <!-- Animation of a girl coding -->
-  <div style="position: absolute; top: 0; right: 0;">
-    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="150" height="150"/>
+  <div style="position: absolute; top: 0; left: 0;">
+    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="200" height="150"/>
   </div>
 </div>
 
