@@ -9,24 +9,30 @@
 
 
 ## 🛠  **Programming Languages:** PHP, Python, HTML, CSS, JavaScript
-Communication Icon:
+
 
 <img src="https://img.icons8.com/ios-filled/50/000000/communication.png"
 alt=Teamwork Icon>
 
-Link: https://img.icons8.com/ios-filled/50/000000/teamwork.png
-Leadership Icon:
+<img src=" https://img.icons8.com/ios-filled/50/000000/teamwork.png"
+alt=
+Leadership Icon>
 
-Link: https://img.icons8.com/ios-filled/50/000000/leader.png
-Problem Solving Icon:
+<img src="https://img.icons8.com/ios-filled/50/000000/leader.png"
+alt=
+Problem Solving Icon>
 
-Link: https://img.icons8.com/ios-filled/50/000000/problem-solving.png
-Collaboration Icon:
+Link: https://img.icons8.com/ios-filled/50/000000/problem-solving.png"
+alt=
+Collaboration Icon>
 
-Link: https://img.icons8.com/ios-filled/50/000000/collaboration.png
-Creativity Icon:
+<img src=" https://img.icons8.com/ios-filled/50/000000/collaboration.png"
+alt=
+Creativity Icon>
 
-Link: https://img.icons8.com/ios-filled/50/000000/creativity.png
+<img src=" https://img.icons8.com/ios-filled/50/000000/creativity.png"
+>
+
 ## 💼 Experience
 
 ### Software Development Intern  
