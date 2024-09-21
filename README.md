@@ -7,6 +7,8 @@
 -<div style="display: flex; align-items: stretch;">
  **Programming Languages:** <strong> PHP, Python, HTML, CSS, JavaScrip    </Strong>
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="140" height="150" style="margin-right: 20px;"/>
+  <p><strong>Soft Skills:</strong> 💬 Communication, 🤝 Teamwork, 🧠 Problem-solving, ⏰ Time Management, 🌱 Adaptability</p>
+
 </div>
 
 ## 💼 Experience
