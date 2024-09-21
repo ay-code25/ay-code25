@@ -8,8 +8,7 @@
 
 </div>
 
-  <p>I'm a passionate software developer with a strong foundation in coding, debugging, and project management. I have hands-on experience with a wide range of technologies, including HTML, CSS, JavaScript, Python, and PHP. I recently completed a six-month software development internship, where I honed my skills in content management systems, development environments, and debugging. I am excited to bring my skills to a full-time software development role and contribute to impactful projects.</p>
-</div>
+
 
 <div style="position: relative;">
   <p>
