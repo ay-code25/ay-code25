@@ -10,8 +10,8 @@
 
 
 ## 🛠  **Programming Languages:
-PHP, Python, HTML, CSS, JavaScript
-Link: https://img.icons8.com/ios-filled/50/000000/leaf.png<p><strong>Soft Skills:</strong>  <br>💬 Communication <br>🤝 Teamwork <br>🧠 Problem-solving <br>⏰ Time Management <br>🌱 Adaptability</p>
+PHP, Python, HTML, CSS, JavaScript<br>
+<img src=" https://img.icons8.com/ios-filled/50/000000/leaf.png"><p><strong>Soft Skills:</strong>  <br>💬 Communication <br>🤝 Teamwork <br>🧠 Problem-solving <br>⏰ Time Management <br>🌱 Adaptability</p>
 
 
 ## 💼 Experience
