@@ -59,37 +59,70 @@ I'm a passionate software developer with a strong foundation in coding, debuggin
 - 📍 Kingiston Upon Themse, Surrey 
 - 📧 [ay.code25@outlook.com](mailto:ay.code25@outlook.com)
 
-
 ## 🛠 Skills
 
 **Programming Languages:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</div>
 
 **Frameworks and CMS:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+</div>
 
 **Tools & Technologies:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/>
+</div>
 
 **Development Practices:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/agile/agile-original.svg" alt="Agile" width="40" height="40"/>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/agile/agile-original.svg" alt="Agile" width="40" height="40"/>
+</div>
 
 **Project Management:**
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/>
+</div>
