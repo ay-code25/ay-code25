@@ -56,15 +56,11 @@ I'm a passionate software developer with a strong foundation in coding, debuggin
 
 ## 📫 Contact Me
 
-- 📍 Surbiton, Surrey 
-- 📞 07874087222
+- 📍 Kingiston Upon Themse, Surrey 
 - 📧 [ay.code25@outlook.com](mailto:ay.code25@outlook.com)
 
 
-  
-- ## 🛠 Skills
-
-
+## 🛠 Skills
 
 **Programming Languages:**
 
@@ -76,4 +72,24 @@ I'm a passionate software developer with a strong foundation in coding, debuggin
 
 **Frameworks and CMS:**
 
-<img src="https://cdn.jsdelivr.net/npm>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+
+**Tools & Technologies:**
+
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/>
+
+**Development Practices:**
+
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/agile/agile-original.svg" alt="Agile" width="40" height="40"/>
+
+**Project Management:**
+
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/>
