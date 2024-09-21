@@ -68,34 +68,12 @@ I'm a passionate software developer with a strong foundation in coding, debuggin
 
 **Programming Languages:**
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/php.svg" alt="PHP" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" alt="HTML" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" alt="CSS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
 **Frameworks and CMS:**
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/drupal.svg" alt="Drupal" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/wordpress.svg" alt="WordPress" width="40" height="40"/>
-
-**Tools & Technologies:**
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" alt="Docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linux.svg" alt="Linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/powershell.svg" alt="PowerShell" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gnubash.svg" alt="Command Line" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/composer.svg" alt="Composer" width="40" height="40"/>
-
-**Development Practices:**
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" alt="Debugging" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/agile.svg" alt="Agile" width="40" height="40"/>
-
-**Project Management:**
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg" alt="Jira" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/trello.svg" alt="Trello" width="40" height="40"/>
-
--
+<img src="https://cdn.jsdelivr.net/npm
