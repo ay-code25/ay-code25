@@ -1,9 +1,6 @@
 # Hi, I'm Aziza Yalda Shirzad 👋
 <be>
-<div # Hi, I'm Aziza Yalda Shirzad 👋
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Teamwork Animation" width="250" align="left" style="margin-right: 20px;" />
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Teamwork Animation" width="200" height="200" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/fH9WPP8FGp4cTgLnv1/giphy.gif" alt="Simple Teamwork Animation" width="200" align="left" style="margin-right: 20px;"/>
   <p>I'm a passionate software developer with a strong foundation in coding, debugging, and project management. I believe in the power of teamwork to deliver impactful projects. With hands-on experience in a wide range of technologies, including HTML, CSS, JavaScript, Python, and PHP, I have collaborated with diverse teams to solve problems and create efficient solutions. I recently completed a six-month software development internship, where I further honed my teamwork skills, and I am eager to bring my experience to a full-time software development role.</p>
 </div>
 
