@@ -55,7 +55,7 @@
 
 ## 📫 Contact Me
 
-- 🔗 on LinkedIn: LinkedIn Profile
+- 🔗 on LinkedIn:[ LinkedIn Profile](https://www.linkedin.com/in/aycode25/)
 - 📧 [ay.code25@outlook.com](mailto:ay.code25@outlook.com)
 
 **Langauges and tools:**
