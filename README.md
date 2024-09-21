@@ -9,9 +9,24 @@
 
 
 ## 🛠  **Programming Languages:** PHP, Python, HTML, CSS, JavaScript
- 
-   <p><strong>Soft Skills:</strong> 💬 Communication, 🤝 Teamwork, 🧠 Problem-solving, ⏰ Time Management, 🌱 Adaptability</p>
+Communication Icon:
 
+Link: https://img.icons8.com/ios-filled/50/000000/communication.png
+Teamwork Icon:
+
+Link: https://img.icons8.com/ios-filled/50/000000/teamwork.png
+Leadership Icon:
+
+Link: https://img.icons8.com/ios-filled/50/000000/leader.png
+Problem Solving Icon:
+
+Link: https://img.icons8.com/ios-filled/50/000000/problem-solving.png
+Collaboration Icon:
+
+Link: https://img.icons8.com/ios-filled/50/000000/collaboration.png
+Creativity Icon:
+
+Link: https://img.icons8.com/ios-filled/50/000000/creativity.png
 ## 💼 Experience
 
 ### Software Development Intern  
