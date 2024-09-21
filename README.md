@@ -6,7 +6,7 @@
 ## 🛠 Skills
 
 - **Programming Languages:** PHP, Python, HTML, CSS, JavaScript<p>      </p><!-- Animation of a girl coding -->
-  <div style="position: absolute; top: 0; right: 0; dispay: relative;">
+  <div style="position: absolute; top: 0; right: 0; dispay: flex;">
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="150" height="150"/>
   </div>
 - **Frameworks and CMS:** Drupal, WordPress, Godaddy & Wix
