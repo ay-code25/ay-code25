@@ -55,7 +55,7 @@
 
 ## 📫 Contact Me
 
-- 📍 Kingiston Upon Themse, Surrey 
+- 🔗 on LinkedIn: LinkedIn Profile
 - 📧 [ay.code25@outlook.com](mailto:ay.code25@outlook.com)
 
 **Langauges and tools:**
