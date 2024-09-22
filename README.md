@@ -1,5 +1,7 @@
-  # Hi, 
-  **I'm Aziza Yalda Shirzad** 👋
+ **  Hi, ** 👋<h1 align="center"><strong>
+ I'm Aziza Yalda Shirzad</strong
+</h1>
+
 <div style="dispay: inlin-block;">
   <p>I'm a passionate software developer with a strong foundation in coding, debugging, and project management. I believe in the power of teamwork to deliver impactful projects. With hands-on experience in a wide range of technologies, including HTML, CSS, JavaScript, Python, and PHP, I have collaborated with diverse teams to solve problems and create efficient solutions. I recently completed a six-month software development internship, where I further honed my teamwork skills, and I am eager to bring my experience to a full-time software development role.</p>
 
