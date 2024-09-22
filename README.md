@@ -15,7 +15,7 @@
 Testing and Debugging 🐞🔍<br>
 Version Control 💻🔧
 ## 🌾Soft Skills:
- 🤝 Teamwork <br>🧠 Problem-solving <br>⏰ Time Management <br>🌱 Adaptability</p>
+ 🤝 Teamwork  <br>⏰ Time Management <br>🌱 Adaptability</p>
 
 
 ## 💼 Experience
