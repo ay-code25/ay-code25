@@ -1,5 +1,5 @@
- **  Hi, ** 👋<h1 align="center"><strong>
- I'm Aziza Yalda Shirzad</strong
+ <h1 align="center"><strong>
+  Hi, 👋 I'm Aziza Yalda Shirzad</strong>
 </h1>
 
 <div style="dispay: inlin-block;">
