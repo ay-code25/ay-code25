@@ -12,9 +12,9 @@
 
 
 ## 🛠 technical skills:
-Testing and Debugging 🐞🔍
+Testing and Debugging 🐞🔍<br>
 Version Control 💻🔧
-<img src=" https://img.icons8.com/ios-filled/50/000000/leaf.png"><p><strong>Soft Skills:</strong>  <br>💬 Communication <br>🤝 Teamwork <br>🧠 Problem-solving <br>⏰ Time Management <br>🌱 Adaptability</p>
+## 🌾Soft Skills: <br>💬 Communication <br>🤝 Teamwork <br>🧠 Problem-solving <br>⏰ Time Management <br>🌱 Adaptability</p>
 
 
 ## 💼 Experience
