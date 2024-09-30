@@ -6,7 +6,6 @@
   <p>I'm a passionate software developer with a strong foundation in coding, debugging, and project management. I believe in the power of teamwork to deliver impactful projects. With hands-on experience in a wide range of technologies, including HTML, CSS, JavaScript, Python, and PHP, I have collaborated with diverse teams to solve problems and create efficient solutions. I recently completed a six-month software development internship, where I further honed my teamwork skills, and I am eager to bring my experience to a full-time software development role.</p>
 
 
-
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="145" height="145" style="margin-right: 20px;"/>
 -
 
