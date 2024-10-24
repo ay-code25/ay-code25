@@ -6,7 +6,7 @@
   <p>I'm a passionate software developer with a strong foundation in coding, debugging, and project management. I believe in the power of teamwork to deliver impactful projects. With hands-on experience in a wide range of technologies, including HTML, CSS, JavaScript, Python, and PHP, I have collaborated with diverse teams to solve problems and create efficient solutions. I recently completed a six-month software development internship, where I further honed my teamwork skills, and I am eager to bring my experience to a full-time software development role.</p>
 
 
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="140" height="140" style="margin-right: 20px;"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding" width="135" height="135" style="margin-right: 20px;"/>
 -
 
 
@@ -65,9 +65,9 @@ Version Control 💻🔧
 
 **Langauges and tools:**
 
- <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="100" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/> 
+ <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="PHP" width="100" height="35"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/bash/bash-original.svg" alt="Bash" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/npm/devicon/icons/composer/composer-original.svg" alt="Composer" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/> 
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/jira/jira-original.svg" alt="Jira" width="35" height="35"/> 
